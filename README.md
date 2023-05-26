@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning 'C' & Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@iamprincebharti (insta)
+- 📫 How to reach me ...@princebharti06
 
 <!---
 princebharti68/princebharti68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
