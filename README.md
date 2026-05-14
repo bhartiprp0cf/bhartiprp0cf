@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhartiprp0cf
-- 👀 I'm just a Great Learner who Lead well
-- 🌱 I’m currently working on CP & Full-Stack Web Dev
+- 👀 I'm a MERN Stack Developer & Competitive Programmer
+- 🌱 I’m currently working on Contributing in open source program @GS_Lab
 - 💞️ I’m looking for Tech enthusiast who can be the member of my team @sthitpragya.coders
 - 📫 How to reach me : bhartiprince829@gmail.com
 
